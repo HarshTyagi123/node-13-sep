@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Pepillo",
+        "last_name": "Osgerby",
+        "email": "posgerby0@hud.gov",
+        "gender": "Agender"
+    },
+    {
+        "id": 2,
+        "first_name": "Bret",
+        "last_name": "Smitherham",
+        "email": "bsmitherham1@mozilla.org",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Adelind",
+        "last_name": "Ivashev",
+        "email": "aivashev2@phoca.cz",
+        "gender": "Polygender"
+    },
+    {
+        "id": 4,
+        "first_name": "Heather",
+        "last_name": "Leonardi",
+        "email": "hleonardi3@acquirethisname.com",
+        "gender": "Female"
+    },
+    {
+        "id": 5,
+        "first_name": "Legra",
+        "last_name": "Yter",
+        "email": "lyter4@tamu.edu",
+        "gender": "Genderqueer"
+    },
+    {
+        "id": 6,
+        "first_name": "Berry",
+        "last_name": "Ebbitt",
+        "email": "bebbitt5@hud.gov",
+        "gender": "Female"
+    },
+    {
+        "id": 7,
+        "first_name": "Ricky",
+        "last_name": "Poolton",
+        "email": "rpoolton6@uiuc.edu",
+        "gender": "Male"
+    },
+    {
+        "id": 8,
+        "first_name": "Gael",
+        "last_name": "Reek",
+        "email": "greek7@tmall.com",
+        "gender": "Agender"
+    },
+    {
+        "id": 9,
+        "first_name": "Keane",
+        "last_name": "Gabites",
+        "email": "kgabites8@icq.com",
+        "gender": "Male"
+    },
+    {
+        "id": 10,
+        "first_name": "Tymothy",
+        "last_name": "Budgett",
+        "email": "tbudgett9@springer.com",
+        "gender": "Male"
+    }
+]
